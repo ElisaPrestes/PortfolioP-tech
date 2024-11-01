@@ -17,7 +17,11 @@ document.addEventListener("DOMContentLoaded", function() {
         { image: "images/Card_Social/CartazEtec.jpg" },
         { image: "images/Card_Social/loveSorocaba.jpg" },  
         { image: "images/Card_Social/euSumo.jpg" },  
-        { image: "images/Card_Social/RiotTotem.jpg" },   
+        { image: "images/Card_Social/RiotTotem.jpg" },
+        { image: "images/Card_Social/baltazar" },      
+        { image: "images/Card_Social/placa"},  
+        { image: "images/Card_Social/1729952836715.jpg"},  
+        { image: "images/Card_Social/cantor.jpg"},  
     ];
 
     const carouselInner = document.getElementById("carouselInner");
